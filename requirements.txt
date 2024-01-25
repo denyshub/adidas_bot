@@ -1,0 +1,5 @@
+aiogram
+lxml
+beautifulsoup4
+requests
+fake_useragent
